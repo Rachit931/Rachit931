@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, Rachit this side 👋
 
-<!--
-**Rachit931/Rachit931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning Python and Git, and I'm starting to move into open-source development.  
+Right now my main focus is understanding scientific Python tools and contributing to projects in the HEP/HSF ecosystem.
 
-Here are some ideas to get you started:
+### What I'm working on
+- Getting comfortable with Git and GitHub
+- Building small Python projects to improve my fundamentals
+- Preparing my first contribution to the Scikit-HEP project (uproot/awkward/etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals for the next months
+- Make regular contributions to open-source projects
+- Learn the workflow used by real scientific software teams
+- Improve my understanding of data analysis and ML
+
+### Interests
+- Python + scientific computing  
+- Machine learning  
+- High-energy physics software  
+- Open-source culture  
+
+### Connect with me
+LinkedIn: <your link here>
+
+(https://www.linkedin.com/in/rachit-kumar-130302376/)
