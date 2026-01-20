@@ -17,7 +17,8 @@ Right now my main focus is understanding scientific Python tools and contributin
 - Python + scientific computing  
 - Machine learning  
 - High-energy physics software  
-- Open-source culture  
+- Open-source culture
+- C++
 
 ### Connect with me
 LinkedIn: <your link here>
