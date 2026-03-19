@@ -1,5 +1,27 @@
 # 💫 About Me:
-Hi, Rachit this side 👋<br>I'm currently improving in C++, Python and Scikit-learn, and I'm transitioning into open-source development.<br>Right now my main focus is understanding scientific Python tools and contributing to projects in the HEP/HSF ecosystem.<br><br>What I'm working on<br>Understanding the layers and the APIs of the ecosystem<br>Working on strengthening my Data Structures and Algorithms using C++<br>Continuing my contributions in Scikit-HEP project (uproot/awkward/etc.)<br>Goals for the next months<br>Making regular contributions to open-source projects<br>Learn the workflow used by real scientific software teams<br>Improve my understanding of data analysis and ML<br>Work on a pure ML based project<br>Interests<br>Python + scientific computing<br>Machine learning<br>High-energy physics software<br>Open-source culture<br>Application of C++<br>Connect with me<br>LinkedIn:<br><br>(https://www.linkedin.com/in/rachit-kumar-130302376/)
+Hi, Rachit this side 👋
+
+I'm currently improving in C++, Python,Scikit-learn and PyTorch, and I'm transitioning into open-source development.
+Right now my main focus is understanding scientific Python tools and contributing to projects in the HEP/HSF ecosystem.
+
+**What I'm working on**: 
+Understanding the layers and the APIs of the ecosystem.
+Working on strengthening my Data Structures and Algorithms using C++.
+Improving the understanding of Deep learning and it's libraries by creating a system. 
+
+**Goals for the next months** : 
+Making regular contributions to open-source projects
+Learn the workflow used by real scientific software teams.
+Improve my understanding of data analysis and ML
+Working on a pure ML based project - Cart-IQ
+
+**Interests**:
+Python + scientific computing.
+Machine learning. 
+Open-source culture.
+Application of C++. 
+Understanding core ML & DL libraries. 
+Connect with me<br>LinkedIn:<br><br>(https://www.linkedin.com/in/rachit-kumar-130302376/)
 
 
 ## 🌐 Socials:
