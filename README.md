@@ -15,7 +15,7 @@ Interests:
 
 Python + scientific computing. Machine learning. Open-source culture. Application of C++. Understanding core ML & DL libraries.  
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rachit-kumar-130302376/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:symbolused@gmail.com) 
 
 # 💻 Tech Stack:
@@ -41,12 +41,11 @@ Python + scientific computing. Machine learning. Open-source culture. Applicatio
 
 # ⚙️ Built with:
   Pandas, NumPy, Scikit-learn  
-  FastAPI (planned)  
-  Modular ML pipelines  
-  🌐 Connect With Me  
-  💼 LinkedIn: (add your link here)  
-  📧 Email: (add if you want)  
-
+  FastAPI (planned)   
+  Streamlit
+  Modular ML pipelines    
+  Matplotlib  
+  
 # ⚡ Philosophy
   Build real systems. Not just notebooks.  
   Consistency > Motivation
