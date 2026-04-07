@@ -13,12 +13,7 @@ Making regular contributions to open-source projects Learn the workflow used by 
 
 Interests:
 
-Python + scientific computing. Machine learning. Open-source culture. Application of C++. Understanding core ML & DL libraries.
-
-Connect with me
-LinkedIn:
-
-(https://www.linkedin.com/in/rachit-kumar-130302376/)
+Python + scientific computing. Machine learning. Open-source culture. Application of C++. Understanding core ML & DL libraries.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rachit-kumar-130302376/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:symbolused@gmail.com) 
@@ -38,19 +33,19 @@ LinkedIn:
   ![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rachit931&theme=tokyonight)
 
 # 🧩 Featured Project
-  🛒 CartIQ — E-commerce Intelligence System
-  Customer segmentation (clustering)
-  Churn prediction (classification)
-  Spend prediction (regression)
-  Recommendation system (hybrid)
+  🛒 CartIQ — E-commerce Intelligence System  
+  Customer segmentation (clustering)  
+  Churn prediction (classification)  
+  Spend prediction (regression)  
+  Recommendation system (hybrid)  
 
 # ⚙️ Built with:
-  Pandas, NumPy, Scikit-learn
-  FastAPI (planned)
-  Modular ML pipelines
-  🌐 Connect With Me
-  💼 LinkedIn: (add your link here)
-  📧 Email: (add if you want)
+  Pandas, NumPy, Scikit-learn  
+  FastAPI (planned)  
+  Modular ML pipelines  
+  🌐 Connect With Me  
+  💼 LinkedIn: (add your link here)  
+  📧 Email: (add if you want)  
 
 # ⚡ Philosophy
   Build real systems. Not just notebooks.
