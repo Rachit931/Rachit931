@@ -50,8 +50,8 @@ Machine Learning • AI Engineering • Backend Systems • Data Engineering •
 
 ## 📈 Contribution Graph
 
-  ![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rachit931&theme=tokyonight)
-
+  [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
+  
 ## 🧩 Featured Project
   🛒 CartIQ — E-commerce Intelligence System  
   Customer segmentation (clustering)  
