@@ -46,12 +46,12 @@ Machine Learning • AI Engineering • Backend Systems • Data Engineering •
   
 ## 🔥 GitHub Streak
 
-  ![Streak](https://streak-stats.demolab.com?user=Rachit931&theme=tokyonight)
-
-## 📈 Contribution Graph
-
   [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
   
+## 📈 Contribution Graph
+
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rachit931&theme=github-dark)](https://github.com/Rachit931)
+
 ## 🧩 Featured Project
   🛒 CartIQ — E-commerce Intelligence System  
   Customer segmentation (clustering)  
