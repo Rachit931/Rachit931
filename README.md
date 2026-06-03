@@ -46,8 +46,8 @@ Machine Learning • AI Engineering • Backend Systems • Data Engineering •
   
 ## 🔥 GitHub Streak
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Rachit931&theme=dark)](https://git.io/streak-stats)  
-  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Rachit931&theme=tokyonight)](https://git.io/streak-stats)  
+
 ## 📈 Contribution Graph
 
   [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rachit931&theme=github-dark)](https://github.com/Rachit931)
