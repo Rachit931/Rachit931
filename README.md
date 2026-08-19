@@ -1,20 +1,11 @@
 <div align="center">
 
-```
-██████╗  █████╗  ██████╗██╗  ██╗██╗████████╗
-██╔══██╗██╔══██╗██╔════╝██║  ██║██║╚══██╔══╝
-██████╔╝███████║██║     ███████║██║   ██║
-██╔══██╗██╔══██║██║     ██╔══██║██║   ██║
-██║  ██║██║  ██║╚██████╗██║  ██║██║   ██║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Rachit&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%2F%20AI%20Engineer%20in%20Progress&descAlignY=58&descSize=20" width="100%" />
 
-**ML / AI Engineer in progress — turning raw data into deployed, explainable systems**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+deployed+systems;Vision+%2B+Language+%2B+Tabular+%E2%86%92+one+model;Building+CineFusion-X+%F0%9F%8E%AC;Explainability+isn't+optional." alt="Typing SVG" />
 
-`preprocessing → features → training → evaluation → explainability → deployment → MLOps`
-
-<a href="https://www.linkedin.com/in/rachit-kumar-130302376/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:symbolused@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rachit-kumar-130302376/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:symbolused@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -22,7 +13,7 @@
 
 ## ⟶ About
 
-I'm a Computer Science student building toward becoming an ML/AI engineer who owns the **whole pipeline** — not just the modeling notebook. That means preprocessing, feature engineering, training, evaluation, explainability, deployment, and MLOps, all treated as one connected system rather than separate exercises.
+I'm a Computer Science student building toward becoming an ML/AI engineer who owns the **whole pipeline** — not just the modeling notebook. That means preprocessing, feature engineering, training, evaluation, explainability, deployment, and MLOps, treated as one connected system rather than separate exercises.
 
 I care more about systems that could actually ship than notebooks that stop at a metric — which means thinking hard about architecture decisions, failure modes, and how a model behaves once it leaves `.ipynb`.
 
@@ -30,20 +21,18 @@ I care more about systems that could actually ship than notebooks that stop at a
 
 ## ⟶ Currently Building
 
-<table>
-<tr><td>🧠</td><td><b>CineFusion-X</b></td><td>Multimodal deep learning — fusing vision, language, and tabular signals</td></tr>
-<tr><td>🏗️</td><td><b>MLOps fundamentals</b></td><td>Docker, MLflow, DVC — reproducible, deployable pipelines</td></tr>
-<tr><td>📚</td><td><b>DSA</b></td><td>Strengthening problem-solving and system-level thinking</td></tr>
-<tr><td>🔬</td><td><b>Explainable AI</b></td><td>Going deeper on interpretability and retrieval-based systems</td></tr>
-</table>
+- 🧠 **CineFusion-X** — multimodal deep learning: vision + language + tabular fusion
+- 🏗️ **MLOps fundamentals** — Docker, MLflow, DVC for reproducible, deployable pipelines
+- 📚 **DSA** — strengthening problem-solving & system thinking
+- 🔬 **Explainable AI** — going deeper on interpretability + retrieval systems
 
 <br>
 
 ## ⟶ Featured Project
 
-### 🎬 CineFusion-X — Multimodal Movie Intelligence System
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=header&text=CineFusion-X&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="100%" />
 
-*A system that reasons about a movie the way a person would — by looking at the poster, reading the plot, and weighing the metadata — instead of relying on a single modality.*
+**Multimodal Movie Intelligence System** — reasons about a movie the way a person would, by looking at the poster, reading the plot, and weighing the metadata, instead of relying on a single modality.
 
 **The problem** — most movie-analytics models lean on tabular metadata alone, throwing away the signal locked inside posters and plot text. CineFusion-X fuses all three into one learned representation.
 
@@ -127,28 +116,23 @@ I care more about systems that could actually ship than notebooks that stop at a
 
 <br>
 
-## ⟶ GitHub Overview
+## ⟶ GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rachit931&theme=onedark" width="80%" alt="trophies" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rachit931&show_icons=true&theme=tokyonight&hide_border=true" width="47%" alt="stats" />
-<img src="https://streak-stats.demolab.com?user=Rachit931&theme=tokyonight&hide_border=true" width="47%" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Rachit931&theme=tokyonight&hide_border=true" width="70%" alt="streak" />
 
 </div>
-
-> Static images only, no animations — generated via [`github-profile-trophy`](https://github.com/ryo-ma/github-profile-trophy), [`github-readme-stats`](https://github.com/anuraghazra/github-readme-stats), and [`github-readme-streak-stats`](https://github.com/DenverCoder1/github-readme-streak-stats).
 
 <br>
 
 ## ⟶ Let's Connect
 
+<div align="center">
+
 I'm always happy to talk about ML systems, architecture decisions, or interesting datasets.
 
-<div align="center">
+<br>
 
 <a href="https://www.linkedin.com/in/rachit-kumar-130302376/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:symbolused@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -156,5 +140,7 @@ I'm always happy to talk about ML systems, architecture decisions, or interestin
 <br><br>
 
 *Build real systems. Not just notebooks. Consistency > Motivation.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer" width="100%" />
 
 </div>
