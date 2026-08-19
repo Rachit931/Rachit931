@@ -131,17 +131,25 @@ I care more about systems that could actually ship than notebooks that stop at a
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/Rachit931?template=classic&theme=dark&base.header=0&base.activity=0&base.community=0&base.repositories=0&languages=1&languages.limit=8&languages.threshold=0" width="100%" alt="languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=Rachit931&theme=github_dark" width="48%" alt="profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=Rachit931&theme=github_dark" width="48%" alt="stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rachit931&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%" alt="trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=Rachit931&theme=github_dark" width="48%" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=Rachit931&theme=github_dark" width="48%" alt="most commit language" />
 
 </div>
 
-> Stats above are generated from public GitHub data via [`metrics`](https://github.com/lowlighter/metrics) and [`github-profile-trophy`](https://github.com/ryo-ma/github-profile-trophy) — both render as static images, not animations.
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rachit931&theme=algolia&no-frame=true&row=1&column=6" width="100%" alt="trophies" />
+
+</div>
+
+> Stats above are generated from public GitHub data via [`github-profile-summary-cards`](https://github.com/vn7n24fzkq/github-profile-summary-cards) and [`github-profile-trophy`](https://github.com/ryo-ma/github-profile-trophy) — both render as static images, not animations.
 
 <br>
 
