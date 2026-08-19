@@ -131,25 +131,16 @@ I care more about systems that could actually ship than notebooks that stop at a
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rachit931&theme=github_dark" width="48%" alt="profile summary" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rachit931&theme=github_dark" width="48%" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rachit931&theme=onedark" width="80%" alt="trophies" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rachit931&show_icons=true&theme=tokyonight&hide_border=true" width="47%" alt="stats" />
+<img src="https://streak-stats.demolab.com?user=Rachit931&theme=tokyonight&hide_border=true" width="47%" alt="streak" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rachit931&theme=github_dark" width="48%" alt="repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rachit931&theme=github_dark" width="48%" alt="most commit language" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rachit931&theme=algolia&no-frame=true&row=1&column=6" width="100%" alt="trophies" />
-
-</div>
-
-> Stats above are generated from public GitHub data via [`github-profile-summary-cards`](https://github.com/vn7n24fzkq/github-profile-summary-cards) and [`github-profile-trophy`](https://github.com/ryo-ma/github-profile-trophy) — both render as static images, not animations.
+> Static images only, no animations — generated via [`github-profile-trophy`](https://github.com/ryo-ma/github-profile-trophy), [`github-readme-stats`](https://github.com/anuraghazra/github-readme-stats), and [`github-readme-streak-stats`](https://github.com/DenverCoder1/github-readme-streak-stats).
 
 <br>
 
