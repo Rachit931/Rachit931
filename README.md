@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+deployed+systems;Vision+%2B+Language+%2B+Tabular+%E2%86%92+one+model;Building+CineFusion-X+%F0%9F%8E%AC;Explainability+isn't+optional." alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/rachit-kumar-130302376/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rachit-130302376/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:symbolused@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -134,7 +134,7 @@ I'm always happy to talk about ML systems, architecture decisions, or interestin
 
 <br>
 
-<a href="https://www.linkedin.com/in/rachit-kumar-130302376/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rachit-130302376/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:symbolused@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br><br>
