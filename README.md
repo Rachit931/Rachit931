@@ -33,6 +33,7 @@ I enjoy understanding how things work under the hood — from model architecture
 I'm also actively interested in **open-source development**, contributing to established projects, collaborating with maintainers. 
 
 I believe the best way to grow as an engineer is to build, contribute, experiment, and understand the systems behind the tools we use.
+
 Trying to apply ideas into projects to make the path visible with implementation. 
 ## ⟶ Currently Exploring
 
