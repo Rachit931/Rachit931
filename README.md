@@ -30,10 +30,10 @@ My interests span machine learning, deep learning, LLM applications, agentic sys
 
 I enjoy understanding how things work under the hood — from model architectures and context engineering to tool orchestration, evaluation pipelines, and production infrastructure.
 
-I'm also actively interested in **open-source development**, contributing to established projects, collaborating with maintainers, and preparing for **Google Summer of Code (GSoC)**.
+I'm also actively interested in **open-source development**, contributing to established projects, collaborating with maintainers. 
 
 I believe the best way to grow as an engineer is to build, contribute, experiment, and understand the systems behind the tools we use.
-
+Trying to apply ideas into projects to make the path visible with implementation. 
 ## ⟶ Currently Exploring
 
 - 🤖 **Agentic AI** — agent architectures, tool calling, orchestration, MCP, and multi-agent systems.
@@ -45,7 +45,7 @@ I believe the best way to grow as an engineer is to build, contribute, experimen
 
 ---
 
-## ⟶ Current Flagship Project
+## ⟶ Current Project
 
 ### ⚡ Craftr — Autonomous AI Engineering
 
@@ -81,11 +81,7 @@ An independently built AI coding agent and automated GitHub pull request reviewe
 
 ---
 
-## ⟶ Open Source & GSoC
-
-I'm actively working toward becoming a stronger open-source contributor and participating in **Google Summer of Code (GSoC)**.
-
-Areas I'm particularly interested in:
+**Areas I'm particularly interested in:**
 
 - 🤖 AI / ML frameworks and infrastructure.
 - ☸️ Cloud-native technologies and Kubernetes ecosystems.
@@ -95,7 +91,6 @@ Areas I'm particularly interested in:
 
 My focus is on understanding existing codebases, writing meaningful contributions, collaborating with maintainers, and learning how large production-grade software projects are built.
 
-**Open source is not just something I want to participate in — it's an important part of how I want to grow as an engineer.**
 
 ---
 
@@ -192,7 +187,6 @@ Always interested in discussing AI engineering, agent architectures, open-source
 
 <br/><br/>
 
-**Build intelligent systems. Contribute to meaningful software. Engineer for reliability.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:203A43,100:0F2027&height=110&section=footer" width="100%" />
 
